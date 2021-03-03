@@ -1,4 +1,4 @@
-# Advanced NLP with Spacy 
+# [Advanced NLP with Spacy](https://course.spacy.io/en/)
 
 ## Chapter 1
 - Creating nlp object
