@@ -25,4 +25,4 @@
    
  - Matching patterns
   - Spacy matcher is better then using regex because it allows much complex search, we can even search for verbs, 
-   
+  - ![matching_patterns](images/matching_patterns.png)
